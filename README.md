@@ -26,8 +26,14 @@ This project is ideal for showcasing landing page design skills with animation e
 
 ## 📁 Project Structure
 
-
-> *Note: Your specific assets and directory names may vary — update this section if needed.*
+Sundown/
+├── index.html # Main landing page
+├── style.css # Main stylesheet
+├── script.js # JavaScript for scroll interactions
+├── video.mp4 # Hero background / content media
+├── page4-1.webp # Landing page visual assets
+├── icon.png # Project icon
+└── fonts/ # Custom font assets
 
 ## 🎨 Design & Interaction
 
@@ -45,4 +51,10 @@ To view the project locally:
    ```bash
    git clone https://github.com/ROOKIEEE12/Sundown.git
 
+2. **Open in browser**
 
+Simply open index.html in your browser
+
+OR
+
+Run via a local development server (e.g., Live Server in VS Code)
