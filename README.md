@@ -25,7 +25,7 @@ This project is ideal for showcasing landing page design skills with animation e
 | JavaScript | Smooth scrolling & DOM interactions |
 
 ## 📁 Project Structure
-
+```
 Sundown/
 ├── index.html # Main landing page
 ├── style.css # Main stylesheet
@@ -34,6 +34,7 @@ Sundown/
 ├── page4-1.webp # Landing page visual assets
 ├── icon.png # Project icon
 └── fonts/ # Custom font assets
+```
 
 ## 🎨 Design & Interaction
 
