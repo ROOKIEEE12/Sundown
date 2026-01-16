@@ -53,8 +53,6 @@ To view the project locally:
 
 2. **Open in browser**
 
-Simply open index.html in your browser
-
-OR
-
-Run via a local development server (e.g., Live Server in VS Code)
+   - Simply open index.html in your browser
+   - OR
+   - Run via a local development server (e.g., Live Server in VS Code)
