@@ -27,3 +27,22 @@ This project is ideal for showcasing landing page design skills with animation e
 ## 📁 Project Structure
 
 
+> *Note: Your specific assets and directory names may vary — update this section if needed.*
+
+## 🎨 Design & Interaction
+
+Sundown uses:
+
+- Custom typography and layout to enhance visual aesthetics
+- Scroll-triggered animations
+- Multimedia (video/background) for dynamic presentation
+
+## 📌 Getting Started
+
+To view the project locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/ROOKIEEE12/Sundown.git
+
+
